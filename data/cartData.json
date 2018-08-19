@@ -8,7 +8,7 @@
         "productName":"黄鹤楼香烟",
         "productPrice":19,
         "productQuantity":1,
-        "productImage":"static/img/goods-1.jpg",
+        "productImage":"../img/goods-1.jpg",
         "parts":[
           {
             "partsId":"10001",
